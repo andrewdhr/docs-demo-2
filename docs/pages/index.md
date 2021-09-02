@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Docsy Jekyll Theme
+title: An Awesome Title
 permalink: /
 ---
 

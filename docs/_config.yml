@@ -32,7 +32,7 @@ url: "" # the base hostname & protocol for your site
 repo: "https://github.com/andrewdhr/docs-demo-2"
 github_user: "andrewdhr"
 github_repo: "docs-demo-2"
-github_branch: "master"
+github_branch: "main"
 
 # Optional
 # twitter: vsoch

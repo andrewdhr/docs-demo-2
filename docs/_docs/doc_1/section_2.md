@@ -7,7 +7,6 @@ parent: Document 1
 
 # Section 2: PHP Censor
 
----
 <p align="center">
     <img width="500" height="auto" src="docs/images/php-censor-black.png" alt="PHP Censor" />
 </p>

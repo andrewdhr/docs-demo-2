@@ -1,8 +1,11 @@
-- title: Document 1
-  url: docs/doc_1
+- title: Documentation
+  url: docs/
   links:
-    - title: "Classification and Gradient-based Localization of Chest Radiographs"
-      url: "docs/doc_1/section_1"
-    - title: "PHP Censor"
-      url: "docs/doc_1/section_2"
+    - title: "Random Document for Demo"
+      url: "docs/doc_1"
+      children:
+        - title: Classification and Gradient-based Localization of Chest Radiographs
+          url: "docs/doc_1/section_1"
+        - title: PHP Censor
+          url: "docs/doc_1/section_2"
 

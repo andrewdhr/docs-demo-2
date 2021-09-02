@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Section 2
 description: PHP Censor
 parent: Document 1

@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Section 1
 description: Classification and Gradient-based Localization of Chest Radiographs
 parent: Document 1

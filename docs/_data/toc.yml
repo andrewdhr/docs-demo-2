@@ -2,10 +2,20 @@
   url: docs/
   links:
     - title: "Random Document for Demo"
-      url: "docs/doc_1"
+      url: "docs/01"
       children:
         - title: Classification and Gradient-based Localization of Chest Radiographs
-          url: "docs/doc_1/section_1"
+          url: "docs/01/section_1"
         - title: PHP Censor
-          url: "docs/doc_1/section_2"
+          url: "docs/01/section_2"
+    - title: "TELUS SD-WAN Services Generic DSD"
+      url: "docs/02"
+      children:
+        - title: Purpose
+          url: "docs/02/section_1"
+        - title: SD-WAN Service Overview
+          url: "docs/02/section_2"
+        - title: SD-WAN Platforms 
+          url: "docs/02/section_3"
+
 

@@ -7,10 +7,6 @@ parent: Document 1
 
 # Section 2: PHP Censor
 
-## Table of contents
-1. TOC
-{:toc}
-
 ---
 <p align="center">
     <img width="500" height="auto" src="docs/images/php-censor-black.png" alt="PHP Censor" />

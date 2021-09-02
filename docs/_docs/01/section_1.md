@@ -4,15 +4,6 @@ parent: Document 1
 ---
 
 # Section 1: Classification and Gradient-based Localization of Chest Radiographs
-{: .no_toc }
-
-## Table of contents
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
-
----
 
 ![cover](./assets/cover.png)
 

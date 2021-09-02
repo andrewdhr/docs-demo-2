@@ -4,15 +4,6 @@ parent: Document 1
 ---
 
 # Section 2: PHP Censor
-{: .no_toc }
-
-## Table of contents
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
-
----
 
 <p align="center">
     <img width="500" height="auto" src="assets/php-censor-black.png" alt="PHP Censor" />

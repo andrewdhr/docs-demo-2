@@ -8,8 +8,6 @@ parent: Document 1
 # Section 2: PHP Censor
 
 ## Table of contents
-{: .no_toc .text-delta }
-
 1. TOC
 {:toc}
 
